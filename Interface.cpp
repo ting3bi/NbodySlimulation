@@ -4,7 +4,7 @@
 Interface::Interface(int argc, char *args[])
 {
     data_filename = "solar_system.txt"; //default input file
-    output_filename = "results.txt";    //default output file
+    output_filename = "result.txt";     //default output file
     method = "euler";
     tend = 1000;
 

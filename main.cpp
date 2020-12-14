@@ -61,7 +61,7 @@ int main(int argc, char *args[])
     const double e = 1.6e-19;          // unit C (Coulomb)
     vector<Particle> particles;        // define a vector contains particles
     string filename_in = "rgbody.txt"; // the random generated initial conditions will be
-    string filename_out = "result.txt";
+    string filename_out = "results.txt";
 
     int n;
     try
